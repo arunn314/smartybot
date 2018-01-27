@@ -1,5 +1,5 @@
 # smartybot
-Raspberry pi based Chat bot for home automation.
+Raspberry Pi based Chat bot for home automation.
 
 # Supported Features
 adt_handler.py - Scrap ADT site to control ADT security system.<br>
